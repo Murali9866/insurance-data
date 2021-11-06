@@ -57,10 +57,7 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance. (D
 
 5. Follow setup [instructions](Link to file)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+## Streamlit Deployment App
 
 
 
