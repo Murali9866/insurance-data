@@ -2,7 +2,7 @@
 # Health Insurance Cross Sell Prediction 🏠 🏥
 
 ## Project Intro/Objective
-Predict Health Insurance Owners' who will be interested in Vehicle Insurance. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+Predict Health Insurance Owners' who will be interested in Vehicle Insurance.
 
 ### Methods Used
 * Inferential Statistics
