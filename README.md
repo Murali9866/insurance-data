@@ -19,17 +19,17 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance.
 
 ## Project Description
 
-1)Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company
+1)Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 2)EDA(Exploratory Data Analysis) was performed on data to analyse the hidden pattern of data.
-  a)For example to find the distributions of data PDF's  are used
-  b)For outlier detection - Boxplot
+  a)For example to find the distributions of data PDF's  are used.
+  b)For outlier detection - Boxplot.
   
-3)Stastical Analysis used to replace the missing values of the data
+3)Stastical Analysis used to replace the missing values of the data.
 
-4)Feature selection techniques are applied on data to improve the accuracy
+4)Feature selection techniques are applied on data to improve the accuracy.
 
-5)Data balancing techniques used to balance the highly imbalanced data
+5)Data balancing techniques used to balance the highly imbalanced data.
 
 6)Data modelling has done by using supervised machine learning techniques like logistic regression,decision tree,knn etc.,
 
